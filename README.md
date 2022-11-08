@@ -23,9 +23,3 @@ You can click the Preview link to take a look at your changes.
   <div>
 
 ![snake gif](https://github.com/GabrielPazz/GabrielPazz/blob/output/github-contribution-grid-snake.svg)
- 
-  
-  
-  
-  
-BUENAS NOCHES GH
