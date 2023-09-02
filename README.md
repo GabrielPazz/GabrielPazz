@@ -22,5 +22,4 @@ ESTUDANDO:
   
   
 
-![snake gif](https://github.com/GabrielPazz/GabrielPazz/blob/output/github-contribution-grid-snake.svg)
  
